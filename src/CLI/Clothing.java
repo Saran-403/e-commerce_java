@@ -30,3 +30,4 @@ public class Clothing extends Product{
         return super.toString() + "," + size + "," + colour;
     }
 }
+//product java
